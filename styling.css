@@ -1,0 +1,52 @@
+body{
+    background-color: darkcyan;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.Mhead{
+    text-align: center;
+    font-size: 80px;
+    padding: 10px;
+    margin: 10px;
+}
+.heading{
+    font-family: 'Peralta', cursive;
+}
+.btm{
+    font-size: large;
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 100px;
+}
+button{
+    height: 150px;
+    width: 150px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin: 5px;
+}
+.W{
+    background-image: url("images/tom1.png");
+}
+.A{
+    background-image: url("images/tom2.png");
+}
+.S{
+    background-image: url("images/tom3.png");
+}
+.D{
+    background-image: url("images/tom4.png");
+}
+.J{
+    background-image: url("images/kick.png");
+}
+.K{
+    background-image: url("images/snare.png");
+}
+.L{
+    background-image: url("images/crash.jpg");
+}
